@@ -1,0 +1,73 @@
+[33mcommit c69cd18fa584b903a4f33171fb1d744c17f194e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: a2d9954 69fd445
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 11:27:32 2025 +0100
+
+    resolt conflicte de bibliografia
+
+[33mcommit a2d995449303149a0468be551cb9ed2dd3d5624e[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 11:25:29 2025 +0100
+
+    afegida nova referencia bibliografica
+
+[33mcommit 69fd445a0088038a758a43cd55e98375675a9b14[m[33m ([m[1;32mbibliografia[m[33m)[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 11:21:39 2025 +0100
+
+    afegida nova referencia bibliografica
+
+[33mcommit c25cd59dc0e1cd40817f39902a591027ef74ca92[m
+Merge: 95a58d4 36cedc3
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 01:37:13 2025 +0100
+
+    prova
+
+[33mcommit 36cedc3b80e258388c9ee0c3f4c372df7a216817[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 01:25:16 2025 +0100
+
+    afegida primera referencia bibliografica
+
+[33mcommit 95a58d420d3a060374eb230990abe4e03bc6ea03[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 01:19:00 2025 +0100
+
+    afegit capitol 4
+
+[33mcommit db0fd9ddc837faf7c11c50fedd29a32acab66189[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 00:48:46 2025 +0100
+
+    afegit capitol 3
+
+[33mcommit 07ff2f34a097c2d0def2624254ee06f924665389[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 00:47:14 2025 +0100
+
+    afegit capitol 2
+
+[33mcommit e4eee371cda6a80e08c620c9e82829dee7fd9502[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 00:45:39 2025 +0100
+
+    afegit capitol 1
+
+[33mcommit 8544fdbcd23666e3933498c710f227d8189c6c96[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 00:14:04 2025 +0100
+
+    afegit capitol 5 a l'index
+
+[33mcommit 6245bd554a5de58d0dc0838f92fd71cd6cc26374[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sun Feb 16 00:02:49 2025 +0100
+
+    afegit capitol 1
+
+[33mcommit a961d6dd51940a98f882224bf056f4c5e65bbafe[m
+Author: Natalia <natalia.barrera@paucasesnovescifp.cat>
+Date:   Sat Feb 15 23:46:46 2025 +0100
+
+    afegit capitol 3 sobre gestio de branques al index
